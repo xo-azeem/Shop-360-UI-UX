@@ -8,6 +8,9 @@
     "scheme": "shop360",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
+    "statusBar": {
+      "style": "auto"
+    },
     "ios": {
       "supportsTablet": true
     },
@@ -16,7 +19,8 @@
         "foregroundImage": "./assets/images/adaptive-icon.png",
         "backgroundColor": "#ffffff"
       },
-      "edgeToEdgeEnabled": true
+      "edgeToEdgeEnabled": true,
+      "package": "com.azeem70131514.Shop360"
     },
     "web": {
       "bundler": "metro",

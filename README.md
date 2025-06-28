@@ -27,20 +27,20 @@ A Modern Shopping App UI/UX Prototype
 
 ### Dark Theme
 
-<div align="center" style="background: #181a1b; padding: 32px 0; border-radius: 18px; margin-bottom: 40px;">
+<div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 0 32px;">
-        <img src="https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a" alt="Home Screen" width="200" style="border-radius: 16px; border: 2px solid #333; box-shadow: 0 4px 16px rgba(0,0,0,0.25); background: #222;"/><br/>
-        <b><sub style="color:#fff;">Home Screen</sub></b>
+      <td align="center" style="padding: 0 24px;">
+        <img src="https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a" alt="Home Screen" width="200" style="border-radius: 16px; border: 1px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.10); margin-bottom: 8px;"/><br/>
+        <b><sub>Home Screen</sub></b>
       </td>
-      <td align="center" style="padding: 0 32px;">
-        <img src="https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759" alt="Product Details" width="200" style="border-radius: 16px; border: 2px solid #333; box-shadow: 0 4px 16px rgba(0,0,0,0.25); background: #222;"/><br/>
-        <b><sub style="color:#fff;">Product Details</sub></b>
+      <td align="center" style="padding: 0 24px;">
+        <img src="https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759" alt="Product Details" width="200" style="border-radius: 16px; border: 1px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.10); margin-bottom: 8px;"/><br/>
+        <b><sub>Product Details</sub></b>
       </td>
-      <td align="center" style="padding: 0 32px;">
-        <img src="https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d" alt="Profile & Support" width="200" style="border-radius: 16px; border: 2px solid #333; box-shadow: 0 4px 16px rgba(0,0,0,0.25); background: #222;"/><br/>
-        <b><sub style="color:#fff;">Profile & Support</sub></b>
+      <td align="center" style="padding: 0 24px;">
+        <img src="https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d" alt="Profile & Support" width="200" style="border-radius: 16px; border: 1px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.10); margin-bottom: 8px;"/><br/>
+        <b><sub>Profile & Support</sub></b>
       </td>
     </tr>
   </table>
@@ -48,19 +48,19 @@ A Modern Shopping App UI/UX Prototype
 
 ### Light Theme
 
-<div align="center" style="background: #f8f9fa; padding: 32px 0; border-radius: 18px;">
+<div align="center">
   <table>
     <tr>
-      <td align="center" style="padding: 0 32px;">
-        <img src="https://github.com/user-attachments/assets/ede727d7-e006-4908-ab11-42cf38704b9d" alt="Home Screen" width="200" style="border-radius: 16px; border: 2px solid #eee; box-shadow: 0 4px 16px rgba(0,0,0,0.10); background: #fff;"/><br/>
+      <td align="center" style="padding: 0 24px;">
+        <img src="https://github.com/user-attachments/assets/ede727d7-e006-4908-ab11-42cf38704b9d" alt="Home Screen" width="200" style="border-radius: 16px; border: 1px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.10); margin-bottom: 8px;"/><br/>
         <b><sub>Home Screen</sub></b>
       </td>
-      <td align="center" style="padding: 0 32px;">
-        <img src="https://github.com/user-attachments/assets/f6379e65-d793-4c23-828b-fb7b54f2efbc" alt="Product Details" width="200" style="border-radius: 16px; border: 2px solid #eee; box-shadow: 0 4px 16px rgba(0,0,0,0.10); background: #fff;"/><br/>
+      <td align="center" style="padding: 0 24px;">
+        <img src="https://github.com/user-attachments/assets/f6379e65-d793-4c23-828b-fb7b54f2efbc" alt="Product Details" width="200" style="border-radius: 16px; border: 1px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.10); margin-bottom: 8px;"/><br/>
         <b><sub>Product Details</sub></b>
       </td>
-      <td align="center" style="padding: 0 32px;">
-        <img src="https://github.com/user-attachments/assets/a1114f0d-2311-4dcd-836a-e4997007291f" alt="Profile & Support" width="200" style="border-radius: 16px; border: 2px solid #eee; box-shadow: 0 4px 16px rgba(0,0,0,0.10); background: #fff;"/><br/>
+      <td align="center" style="padding: 0 24px;">
+        <img src="https://github.com/user-attachments/assets/a1114f0d-2311-4dcd-836a-e4997007291f" alt="Profile & Support" width="200" style="border-radius: 16px; border: 1px solid #ccc; box-shadow: 0 4px 12px rgba(0,0,0,0.10); margin-bottom: 8px;"/><br/>
         <b><sub>Profile & Support</sub></b>
       </td>
     </tr>

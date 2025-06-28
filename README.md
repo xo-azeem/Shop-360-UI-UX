@@ -4,7 +4,7 @@ A Modern Shopping App UI/UX Prototype
 
 ---
 
-![Shop360 Banner](https://via.placeholder.com/900x200?text=Shop360+App+UI+Showcase)
+![Shop360 Banner]()
 
 ## ✨ Overview
 
@@ -29,7 +29,10 @@ A Modern Shopping App UI/UX Prototype
 
 | Home Screen | Product Details | Profile & Support |
 |:-----------:|:--------------:|:-----------------:|
-| ![Home](assets/3.jpg) | ![Product](assets/6.jpg) | ![Profile](assets/9.jpg) |
+| ![Home](![3](https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a)
+) | ![Product](![6](https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759)
+) | ![Profile](![9](https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d)
+) |
 
 ---
 

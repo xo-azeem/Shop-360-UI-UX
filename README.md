@@ -8,7 +8,7 @@ A Modern Shopping App UI/UX Prototype
 
 **Shop360** is a Final Year Project (FYP) application built with [React Native Expo](https://expo.dev/). This project is currently in the **test phase** and is focused on delivering a beautiful, intuitive, and modern UI/UX for a shopping app. The goal is to visualize how a next-generation shopping experience could look and feel on mobile devices.
 
-> ⚠️ **Note:** This app is a UI/UX prototype only. Core backend and business logic are not implemented.
+> ⚠️ **Note:** This app is a UI/UX prototype only. Core backend and AR logic are not implemented.
 
 ---
 

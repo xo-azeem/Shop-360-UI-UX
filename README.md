@@ -30,9 +30,9 @@ A Modern Shopping App UI/UX Prototype
   <img src="https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759" alt="Product Details" width="200" style="margin: 0 32px 32px 32px; display: inline-block;"/>
   <img src="https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d" alt="Profile & Support" width="200" style="margin: 0 32px 32px 32px; display: inline-block;"/>
   <div style="margin-top: 8px;">
-    <sub style="margin: 0 32px 32px 32px;">Home Screen</sub> &nbsp;&nbsp;&nbsp;&nbsp;
-    <sub style="margin: 0 32px 32px 32px;">Product Details</sub> &nbsp;&nbsp;&nbsp;&nbsp;
-    <sub style="margin: 0 32px 32px 32px;">Profile & Support</sub>
+    <sub style="margin: 0 96px 32px 96px;">Home Screen</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+    <sub style="margin: 0 96px 32px 96px;">Product Details</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+    <sub style="margin: 0 96px 32px 96px;">Profile & Support</sub>
   </div>
 </div>
 

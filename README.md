@@ -4,8 +4,6 @@ A Modern Shopping App UI/UX Prototype
 
 ---
 
-![Shop360 Banner]()
-
 ## ✨ Overview
 
 **Shop360** is a Final Year Project (FYP) application built with [React Native Expo](https://expo.dev/). This project is currently in the **test phase** and is focused on delivering a beautiful, intuitive, and modern UI/UX for a shopping app. The goal is to visualize how a next-generation shopping experience could look and feel on mobile devices.
@@ -25,14 +23,19 @@ A Modern Shopping App UI/UX Prototype
 
 ---
 
-## 📸 Screenshots
+## 📸 App Screenshots
 
-| Home Screen | Product Details | Profile & Support |
-|:-----------:|:--------------:|:-----------------:|
-| ![Home](![3](https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a)
-) | ![Product](![6](https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759)
-) | ![Profile](![9](https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d)
-) |
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a" alt="Home Screen" width="200" style="margin: 0 20px;"/>
+  <img src="https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759" alt="Product Details" width="200" style="margin: 0 20px;"/>
+  <img src="https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d" alt="Profile & Support" width="200" style="margin: 0 20px;"/>
+
+  <div>
+    <sub>Home Screen</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+    <sub>Product Details</sub> &nbsp;&nbsp;&nbsp;&nbsp;
+    <sub>Profile & Support</sub>
+  </div>
+</div>
 
 ---
 

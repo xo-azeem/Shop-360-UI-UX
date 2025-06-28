@@ -29,7 +29,7 @@ A Modern Shopping App UI/UX Prototype
 
 | Home Screen | Product Details | Profile & Support |
 |:-----------:|:--------------:|:-----------------:|
-| ![Home](https://via.placeholder.com/200x400?text=Home) | ![Product](https://via.placeholder.com/200x400?text=Product) | ![Profile](https://via.placeholder.com/200x400?text=Profile) |
+| ![Home](assets/3.jpg) | ![Product](assets/6.jpg) | ![Profile](assets/9.jpg) |
 
 ---
 

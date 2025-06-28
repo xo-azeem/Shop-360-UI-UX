@@ -1,50 +1,73 @@
-# Welcome to your Expo app 👋
+# 🛒 Shop360
 
-This is an [Expo](https://expo.dev) project created with [`create-expo-app`](https://www.npmjs.com/package/create-expo-app).
+A Modern Shopping App UI/UX Prototype
 
-## Get started
+---
 
-1. Install dependencies
+![Shop360 Banner](https://via.placeholder.com/900x200?text=Shop360+App+UI+Showcase)
 
+## ✨ Overview
+
+**Shop360** is a Final Year Project (FYP) application built with [React Native Expo](https://expo.dev/). This project is currently in the **test phase** and is focused on delivering a beautiful, intuitive, and modern UI/UX for a shopping app. The goal is to visualize how a next-generation shopping experience could look and feel on mobile devices.
+
+> ⚠️ **Note:** This app is a UI/UX prototype only. Core backend and business logic are not implemented.
+
+---
+
+## 🎨 Features
+
+- Clean, modern, and responsive UI
+- Smooth navigation and transitions
+- Themed components (light/dark mode)
+- Profile, Orders, Cart, and Help/Support screens
+- Interactive FAQ and support options
+- Designed for extensibility and real-world scenarios
+
+---
+
+## 📸 Screenshots
+
+| Home Screen | Product Details | Profile & Support |
+|:-----------:|:--------------:|:-----------------:|
+| ![Home](https://via.placeholder.com/200x400?text=Home) | ![Product](https://via.placeholder.com/200x400?text=Product) | ![Profile](https://via.placeholder.com/200x400?text=Profile) |
+
+---
+
+## 🚀 Getting Started
+
+1. **Clone the repository**
+   ```bash
+   git clone <your-repo-url>
+   cd Shop360
+   ```
+2. **Install dependencies**
    ```bash
    npm install
    ```
-
-2. Start the app
-
+3. **Start the Expo development server**
    ```bash
    npx expo start
    ```
+4. **Run on your device or emulator**
+   - Scan the QR code with Expo Go (iOS/Android)
+   - Use an emulator/simulator
 
-In the output, you'll find options to open the app in a
+---
 
-- [development build](https://docs.expo.dev/develop/development-builds/introduction/)
-- [Android emulator](https://docs.expo.dev/workflow/android-studio-emulator/)
-- [iOS simulator](https://docs.expo.dev/workflow/ios-simulator/)
-- [Expo Go](https://expo.dev/go), a limited sandbox for trying out app development with Expo
+## 📁 Project Structure
 
-You can start developing by editing the files inside the **app** directory. This project uses [file-based routing](https://docs.expo.dev/router/introduction).
+- `app/` — Main application screens and components
+- `assets/` — Images, icons, and static resources
+- `context/` — Theme and global state management
 
-## Get a fresh project
+---
 
-When you're ready, run:
+## 🙏 Acknowledgments
 
-```bash
-npm run reset-project
-```
+- [Expo](https://expo.dev/) for the rapid development platform
+- [React Native](https://reactnative.dev/) for cross-platform UI
+- [Ionicons](https://ionic.io/ionicons) for beautiful icons
 
-This command will move the starter code to the **app-example** directory and create a blank **app** directory where you can start developing.
+---
 
-## Learn more
-
-To learn more about developing your project with Expo, look at the following resources:
-
-- [Expo documentation](https://docs.expo.dev/): Learn fundamentals, or go into advanced topics with our [guides](https://docs.expo.dev/guides).
-- [Learn Expo tutorial](https://docs.expo.dev/tutorial/introduction/): Follow a step-by-step tutorial where you'll create a project that runs on Android, iOS, and the web.
-
-## Join the community
-
-Join our community of developers creating universal apps.
-
-- [Expo on GitHub](https://github.com/expo/expo): View our open source platform and contribute.
-- [Discord community](https://chat.expo.dev): Chat with Expo users and ask questions.
+> Designed and developed as part of a Final Year Project to explore and demonstrate modern mobile app UI/UX best practices.

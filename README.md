@@ -26,11 +26,10 @@ A Modern Shopping App UI/UX Prototype
 ## 📸 App Screenshots
 
 <div align="center">
-  <img src="https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a" alt="Home Screen" width="200" style="margin: 0 20px;"/>
-  <img src="https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759" alt="Product Details" width="200" style="margin: 0 20px;"/>
-  <img src="https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d" alt="Profile & Support" width="200" style="margin: 0 20px;"/>
-
-  <div>
+  <img src="https://github.com/user-attachments/assets/3d04a9c1-a7be-47dd-b1cb-4cb173e2cb5a" alt="Home Screen" width="200" style="margin: 0 32px 16px 32px; display: inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/fb6b03d1-2a48-4a4a-8ef2-8061b4a67759" alt="Product Details" width="200" style="margin: 0 32px 16px 32px; display: inline-block;"/>
+  <img src="https://github.com/user-attachments/assets/3b6b2763-7b4a-4935-92bc-0e3387c8c06d" alt="Profile & Support" width="200" style="margin: 0 32px 16px 32px; display: inline-block;"/>
+  <div style="margin-top: 8px;">
     <sub>Home Screen</sub> &nbsp;&nbsp;&nbsp;&nbsp;
     <sub>Product Details</sub> &nbsp;&nbsp;&nbsp;&nbsp;
     <sub>Profile & Support</sub>
